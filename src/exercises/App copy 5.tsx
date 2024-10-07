@@ -1,4 +1,4 @@
-import ExpandableText from "./exercises/ExpandableText";
+import ExpandableText from "./ExpandableText";
 
 function App() {
   return (

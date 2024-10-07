@@ -7,6 +7,7 @@ function App() {
   });
   const handleClick = () => {
     setPizza({
+      ...pizza,
       name: "Margherita",
       toppings: ["tomato", "cheese", "basil"],
     });
